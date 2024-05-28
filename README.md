@@ -1,4 +1,4 @@
-# Dataset: Ocular biometry and pathology in captive and free-ranging southern white rhinoceros (Ceratotherium simum simum) and south-central black rhinoceros (Diceros bicornis minor) in South Africa
+# Dataset: Ocular biometry and pathology in captive and free-ranging southern white rhinoceros (*Ceratotherium simum simum*) and south-central black rhinoceros (*Diceros bicornis minor*) in South Africa
 
 This is the data repository for the MMedVet research project of Dr Paul Burger: Ocular biometry and pathology in captive and free-ranging southern white rhinoceros (*Ceratotherium simum simum*) and south-central black rhinoceros (*Diceros bicornis minor*) in South Africa.
 
