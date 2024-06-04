@@ -33,10 +33,10 @@ Note that all variables in the table below that have a &sect; symbol were classi
 |STT<sup>&sect;</sup>|numeric|Schirmer Tear Test result in mm/min|
 |IOP<sup>&sect;</sup>|numeric|Intra-ocular pressure in mm of mercury (mmHg)|
 |Flour<sup>&sect;</sup>|boolean|Fluorescein stain positive|
-|axial.globe.length<sup>&sect;</sup>|numeric|anterior corneal epithelium to posterior sclera measurement in mm|
-|anterior.chamber.depth<sup>&sect;</sup>|numeric|posterior corneal endothelium to anterior lens capsule measurement in mm|
-|posterior.segment.depth<sup>&sect;</sup>|numeric|posterior lens capsule to posterior sclera measurement in mm|
-|crystalline.lens.thickness<sup>&sect;</sup>|numeric|anterior lens capsule to posterior lens capsule measurement in mm|
+|axial.globe.length<sup>&sect;</sup>|numeric|anterior corneal epithelium to posterior sclera measurement in cm|
+|anterior.chamber.depth<sup>&sect;</sup>|numeric|posterior corneal endothelium to anterior lens capsule measurement in cm|
+|posterior.segment.depth<sup>&sect;</sup>|numeric|posterior lens capsule to posterior sclera measurement in cm|
+|crystalline.lens.thickness<sup>&sect;</sup>|numeric|anterior lens capsule to posterior lens capsule measurement in cm|
 |R1.mm<sup>&sect;</sup>|numeric|maximum curvature of radius expressed in mm|
 |R1.D<sup>&sect;</sup>|numeric|maximum curvature of radius expressed in dioptre|
 |R2.mm<sup>&sect;</sup>|numeric|as R1.mm above - second reading|
